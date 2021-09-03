@@ -3,7 +3,7 @@
 
 Creación de una app para proveer de información en formato de publicaciones o artículos a usuarios.
 
-Frontend app
+<h4>Frontend app</h4>
 <ul>
   <li>React</li>
   <li>Bootstrap</li>
@@ -33,13 +33,16 @@ Al eliminar la publicación desaparece de la vista "Archivadas" y evidentemente 
 
 
 
-Backend app
+<h4>Backend app</h4>
+
+Diseño de un API REST basado en una arquitectura MVC
+
 <ul>
   <li>Node.js / Express</li>
   <li>MongoDB</li>
 </ul>
 
-Database
+<h4>Database</h4>
 <ul>
   <li>JSON, MongoDB</li>
 </ul>
