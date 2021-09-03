@@ -9,7 +9,7 @@ Creación de una app para proveer de información en formato de publicaciones o 
   <li>Bootstrap</li>
 </ul>
 
-Cuando insertamos una publicación desde la página inicial somos redirigidos a la vista "Nuevas". Es almacenada en la BDD.
+Cuando insertamos una publicación desde la página inicial somos redirigidos a la vista "Nuevos artículos". Es almacenada en la BDD.
 
 <img width="1440" alt="Captura de pantalla 2021-09-03 a las 8 35 45" src="https://user-images.githubusercontent.com/80980397/131961712-bea465c2-f3ab-4f46-98e8-6e1deb52eb41.png">
 
@@ -18,7 +18,7 @@ Todas las publicaciones se muestran en formato vertical y ordenados de más reci
 <img width="1440" alt="Captura de pantalla 2021-09-03 a las 8 38 22" src="https://user-images.githubusercontent.com/80980397/131961978-970ab3ec-9648-4541-8aff-fac667858e36.png">
 
 
-Las publicaciones de la vista "Nuevas" contienen un botón para ser archivadas. Cuando este botón es pulsado la publicación pasa a la vista "Archivadas".
+Las publicaciones de la vista "Nuevos artículos" contienen un botón para ser archivadas. Cuando este botón es pulsado la publicación pasa a la vista "Archivados".
 
 Todas las publicaciones archivadas disponen de un botón para ser eliminadas. La eliminación se produce en dos pasos, ya que se despliega una ventana modal para preguntarnos si queremos realmente eliminar la publicación cuando así lo solicitamos.
 
@@ -27,7 +27,7 @@ Todas las publicaciones archivadas disponen de un botón para ser eliminadas. La
 <img width="1440" alt="Captura de pantalla 2021-09-03 a las 8 38 46" src="https://user-images.githubusercontent.com/80980397/131962052-ea0f5bb1-e35a-45af-a57f-2ea594ba2619.png">
 
 
-Al eliminar la publicación desaparece de la vista "Archivadas" y evidentemente de la BDD.
+Al eliminar la publicación desaparece de la vista "Archivados" y evidentemente de la BDD.
 
 <img width="1440" alt="Captura de pantalla 2021-09-03 a las 8 38 57" src="https://user-images.githubusercontent.com/80980397/131962084-0f97e01f-21b3-46d4-9232-f00af57aa762.png">
 
