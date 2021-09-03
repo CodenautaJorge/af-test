@@ -1,12 +1,13 @@
 # af-test
-Prueba técnica
+<h3>Prueba técnica</h3>
 
 Creación de una app para proveer de información en formato de publicaciones o artículos a usuarios.
 
 Frontend app
-
-React
-Bootstrap
+<ul>
+  <li>React</li>
+  <li>Bootstrap</li>
+</ul>
 
 Cuando insertamos una publicación desde la página inicial somos redirigidos a la vista "Nuevas". Es almacenada en la BDD.
 
@@ -33,13 +34,15 @@ Al eliminar la publicación desaparece de la vista "Archivadas" y evidentemente 
 
 
 Backend app
-
-Node.js / Express
-MongoDB
+<ul>
+  <li>Node.js / Express</li>
+  <li>MongoDB</li>
+</ul>
 
 Database
-
-JSON, MongoDB
+<ul>
+  <li>JSON, MongoDB</li>
+</ul>
 
 <img width="1121" alt="Captura de pantalla 2021-09-03 a las 8 39 53" src="https://user-images.githubusercontent.com/80980397/131962194-dc9b5cec-8456-45ae-9a88-732d8b283e7d.png">
 
